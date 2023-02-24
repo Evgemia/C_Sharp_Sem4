@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\bin\Debug\net6.0\Zadacha4.2.exe
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\bin\Debug\net6.0\Zadacha4.2.deps.json
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\bin\Debug\net6.0\Zadacha4.2.runtimeconfig.json
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\bin\Debug\net6.0\Zadacha4.2.dll
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\bin\Debug\net6.0\Zadacha4.2.pdb
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.AssemblyInfo.cs
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.dll
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\refint\Zadacha4.2.dll
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.pdb
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\Zadacha4.2.genruntimeconfig.cache
+C:\Users\user\Desktop\GreekBrains\Знакомство с языками программирования\С#Sem\Sem4 - 19.02.23\Zadacha4.2\obj\Debug\net6.0\ref\Zadacha4.2.dll
